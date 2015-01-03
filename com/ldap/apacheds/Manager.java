@@ -1,4 +1,3 @@
-
 package com.ldap.apacheds;
 
 import java.io.PrintWriter;
@@ -106,4 +105,3 @@ public class Manager {
 		}
 	}
 }
-
